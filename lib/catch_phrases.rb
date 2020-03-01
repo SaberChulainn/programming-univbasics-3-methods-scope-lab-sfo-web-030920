@@ -13,7 +13,5 @@ def link
 end
 
 def all_phrases(phrases)
-  puts phrase
-  puts status
-  puts message
+  puts phrases
 end
