@@ -12,7 +12,7 @@ def link
   puts message
 end
 
-def all_phrases
+def all_phrases(phrases)
   puts phrase
   puts status
   puts message
